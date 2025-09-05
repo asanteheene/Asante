@@ -1,2 +1,2 @@
 # Asante
-personal projects
+CIS 221
